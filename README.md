@@ -38,7 +38,7 @@ The project focuses on:
 ---
 
 ### ⏱ Focus Screen
-<img src="Focus page.png" width="250"/>
+<img src="Focus page .png" width="250"/>
 
 ---
 
