@@ -49,7 +49,7 @@ The project focuses on:
 ---
 
 ### 👤 Profile Screen
-<img src="profile page.png" width="250"/>
+<img src="profile page .png" width="250"/>
 
 ---
 
